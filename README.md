@@ -6,7 +6,7 @@ Final Year CSE student @ KPRIET
 - 🌱 I’m currently learning  Generative Ai with AWS
 - ⚡ Fun fact: I am lazy person .
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sathishkumar292004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sathish.__29/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sathishkumar292004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
 ### I code in
