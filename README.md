@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img width="32%" src="https://readme-stats-fast.vercel.app/api?username=Sathish292004&show_icons=true&theme=tokyonight"/>
-<img width="32%" src="https://streak-stats.demolab.com?user=Sathish292004&theme=tokyonight&cache_seconds=1800"/>
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sathish292004&theme=tokyonight"/>
 </p>
 
 ## 📈 Most Used Languages
