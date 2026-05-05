@@ -48,7 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sathish292004&layout=compact&theme=tokyonight&v=2"/>
 </p>
----
 
 ## 🔥 Quote
  "Code. Learn. Build. Repeat."
