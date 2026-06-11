@@ -26,14 +26,14 @@
 
 ## 💻 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,sass,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,html,css" />
 </p>
 
 ---
 
 ## 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,anaconda,eclipse,photoshop,figma,netlify" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,vercel,wordpress" />
 </p>
 
 ---
