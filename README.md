@@ -17,11 +17,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CSE @ KPRIET  
-- 💡 Interested in Web Development & AI  
-- 🌱 Learning Generative AI with AWS  
-- 🚀 Focused on building real-world projects  
-
+- 🎓 Computer Science Engineering Student @ KPRIET
+- 💻 Java, Spring Boot & Hibernate Enthusiast
+- 🗄️ Exploring Backend Development & Databases
+- 🚀 Focused on Building Real-World Applications
 ---
 
 ## 💻 Skills
