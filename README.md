@@ -41,9 +41,10 @@
 ---
 
 ## 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,vercel,wordpress,maven" />
+=
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,maven,vercel,wordpress" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="48" />
 </p>
 
 ---
