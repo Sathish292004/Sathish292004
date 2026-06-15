@@ -23,16 +23,35 @@
 - 🚀 Focused on Building Real-World Applications
 ---
 
-## 💻 Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,html,css" />
+## 💻 Programming & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate,jdbc" />
 </p>
 
 ---
 
-## 🛠 Tools
+## 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,vercel,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,vercel,wordpress,maven" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ---
