@@ -35,7 +35,7 @@
 ## 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ---
