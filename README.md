@@ -3,16 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sathish%20Kumar&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">🚀 Software Developer | CSE Student</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sathishkumar292004">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://portfolio-kappa-five-qzgec8efpj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
-</p>
+<div align="center">
+  
+### Software Developer | Computer Science Engineering Graduate
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathishkumar292004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-five-qzgec8efpj.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishsince2004@gmail.com)
+
+</div>
+
 
 ---
 
