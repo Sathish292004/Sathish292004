@@ -17,9 +17,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Science Engineering Student @ KPRIET
+- 🎓 Computer Science Engineering Graduate @ KPRIET
 - 💻 Java, Spring Boot & Hibernate Enthusiast
-- 🗄️ Exploring Backend Development & Databases
+- 🗄️ Backend Development with Java, Spring Boot & PostgreSQL
 - 🚀 Focused on Building Real-World Applications
 ---
 
@@ -35,7 +35,7 @@
 ## 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vite" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 🛠️ Tools & Platforms
 =
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,maven,vercel,wordpress" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,git,github,maven,vercel" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,wordpress" height="48" />
 </p>
 
 ---
